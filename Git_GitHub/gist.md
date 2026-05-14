@@ -36,4 +36,7 @@
 * Markdownについてはこれをおすすめ
 > https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
+* プレビューをいちいち切り替えるのは大変な場合は、vscode.dev をおすすめ。
+> https://vscode.dev/?vscode-lang=ja
+
 
